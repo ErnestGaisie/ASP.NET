@@ -26,3 +26,4 @@
 /Users/ernestboamahgaisie/Desktop/DOTNET/GameStore/GameStore.Api/obj/Debug/net10.0/GameStore.Api.pdb
 /Users/ernestboamahgaisie/Desktop/DOTNET/GameStore/GameStore.Api/obj/Debug/net10.0/GameStore.Api.genruntimeconfig.cache
 /Users/ernestboamahgaisie/Desktop/DOTNET/GameStore/GameStore.Api/obj/Debug/net10.0/ref/GameStore.Api.dll
+/Users/ernestboamahgaisie/Desktop/DOTNET/GameStore/GameStore.Api/obj/Debug/net10.0/GameStore.Api.sourcelink.json
